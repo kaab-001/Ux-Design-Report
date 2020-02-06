@@ -1,0 +1,86 @@
+%packages
+\documentclass[11pt,oneside]{book}
+\usepackage[margin=1 in]{geometry}
+\usepackage[toc,page]{appendix}
+\usepackage{graphicx}
+\setlength{\parskip}{0.3em}
+\usepackage{indentfirst}
+\usepackage{natbib}
+\usepackage{lipsum}
+\usepackage{caption}
+
+
+
+%titlepage
+
+\begin{document}
+
+\captionsetup[figure]{margin=1.5cm,font=small,labelfont={bf},name={Figure},labelsep=colon,textfont={it}}
+\captionsetup[table]{margin=1.5cm,font=small,labelfont={bf},name={Table},labelsep=colon,textfont={it}}
+\setlipsumdefault{1}
+
+\begin{titlepage}
+
+\begin{center}
+
+{\LARGE \bfseries Hochschule für Telekommunikation Leipzig}\\[1.5cm]
+\linespread{1}
+\includegraphics[width=5cm]{HFTL.jpg}\\[1cm]
+
+\linespread{1}\LARGE {\bfseries Software Engineering Specification-UX Design}\\[1.5cm]
+{\Large Kaab Rustam}\\[1cm]
+{\large \bfseries \emph{Supervisor:} Professorin Dr. Ing. Sabine Radomski}\\[1cm]
+\large A report submitted in fulfilment of the requirements for the module\\
+ \emph {Software Engineering Specification-UX Design} \\[0.3cm] 
+{\scriptsize in the Degree Program of}
+\\[0.3cm]
+ International Masters of Engineering in ICT \\[1cm]
+
+\Large \bfseries {Topic: \emph {UX Design of ``Embold'' in the light of  User Centred Design (UCD) }}\\[0.5 cm]
+\today \\[2 cm]
+
+\small \emph {``Design is not just what it looks like and feels like. Design is how it works''}-{ \bfseries Steve Jobs}
+
+\end{center}
+
+\end{titlepage}
+
+%table of contents and figures
+
+\tableofcontents
+\listoffigures
+
+
+%chapters
+%chapter 1
+\chapter{Analysis}
+\input{Chapter1.tex}
+
+
+%chapter2
+\chapter{User Requirements}
+\input{Chapter2.tex}
+
+%chapter3
+\chapter{Product Design}
+\input{Chapter3.tex}
+
+%chapter4
+\chapter{Evaluate the Design}
+\input{Chapter4.tex}
+
+%chapter5
+\chapter{Conclusion}
+\input{Chapter5.tex}
+
+
+
+
+%bibligraphy
+\addcontentsline{toc}{chapter}{Bibliography}
+\bibliographystyle{plain}
+\bibliography{UXbib}
+
+
+
+\end{document}
