@@ -1,22 +1,27 @@
-\contentsline {chapter}{\numberline {1}Analysis}{3}
-\contentsline {section}{\numberline {1.1}Context of Use}{3}
-\contentsline {section}{\numberline {1.2}User Group Profiles}{4}
-\contentsline {section}{\numberline {1.3}Task Model}{4}
-\contentsline {section}{\numberline {1.4}Scenarios}{4}
-\contentsline {section}{\numberline {1.5}Persona}{4}
-\contentsline {chapter}{\numberline {2}User Requirements}{5}
-\contentsline {section}{\numberline {2.1}User Needs}{5}
-\contentsline {section}{\numberline {2.2}User Story}{5}
-\contentsline {section}{\numberline {2.3}User Requirement}{5}
-\contentsline {chapter}{\numberline {3}Product Design}{6}
-\contentsline {section}{\numberline {3.1}Information Architecture}{6}
-\contentsline {section}{\numberline {3.2}Style Guide - Comparison}{6}
-\contentsline {chapter}{\numberline {4}Evaluate the Design}{7}
-\contentsline {section}{\numberline {4.1}Test Cases}{7}
-\contentsline {section}{\numberline {4.2}Test tools \& Metrics}{7}
-\contentsline {section}{\numberline {4.3}Usability Test Report}{7}
-\contentsline {chapter}{\numberline {5}Conclusion}{8}
-\contentsline {section}{\numberline {5.1}Summary}{8}
-\contentsline {section}{\numberline {5.2}Recomendation for Improvements}{8}
-\contentsline {section}{\numberline {5.3}Lesson Learned}{8}
-\contentsline {chapter}{Bibliography}{8}
+\contentsline {chapter}{\numberline {1}Analysis}{4}
+\contentsline {section}{\numberline {1.1}Context of Use}{4}
+\contentsline {section}{\numberline {1.2}User Group Profiles}{5}
+\contentsline {section}{\numberline {1.3}Task Model}{6}
+\contentsline {section}{\numberline {1.4}Scenarios}{6}
+\contentsline {section}{\numberline {1.5}Persona}{8}
+\contentsline {chapter}{\numberline {2}User Requirements}{9}
+\contentsline {section}{\numberline {2.1}User Needs}{9}
+\contentsline {section}{\numberline {2.2}User Story}{9}
+\contentsline {section}{\numberline {2.3}User Requirement}{10}
+\contentsline {chapter}{\numberline {3}Product Design}{13}
+\contentsline {section}{\numberline {3.1}Information Architecture}{13}
+\contentsline {section}{\numberline {3.2}Style Guide - Comparison with ISO 9241-210}{14}
+\contentsline {subsection}{\numberline {3.2.1}ISO 9241-210}{16}
+\contentsline {chapter}{\numberline {4}Evaluate the Design}{18}
+\contentsline {section}{\numberline {4.1}Test Cases}{18}
+\contentsline {section}{\numberline {4.2}Test tools \& Metrics}{19}
+\contentsline {subsection}{\numberline {4.2.1}Behavioural KPI (What it does)}{20}
+\contentsline {subsection}{\numberline {4.2.2} Attitudinal KPI (What they say)}{20}
+\contentsline {section}{\numberline {4.3}Usability Test Report}{22}
+\contentsline {chapter}{\numberline {5}Conclusion}{23}
+\contentsline {section}{\numberline {5.1}Summary}{23}
+\contentsline {subsection}{\numberline {5.1.1}Positives}{23}
+\contentsline {subsection}{\numberline {5.1.2}Negatives}{23}
+\contentsline {section}{\numberline {5.2}Recommendation for Improvements}{24}
+\contentsline {section}{\numberline {5.3}Lesson Learned}{25}
+\contentsline {chapter}{Bibliography}{25}
