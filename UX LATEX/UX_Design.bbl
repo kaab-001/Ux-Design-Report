@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{Agile}
 Agile manifesto and user story.
@@ -18,6 +18,11 @@ Information architecture and ux.
 \newblock
   https://uxplanet.org/information-architecture-basics-for-designers-b5d43df62e20.
 
+\bibitem{C1}
+Introduction.
+\newblock
+  https://searchwindevelopment.techtarget.com/definition/static-analysis.
+
 \bibitem{ISO}
 Iso 9241-210:2019 hcd.
 \newblock https://www.iso.org/obp/ui/iso:std:iso:9241:-210:ed-2:v1:en/.
@@ -25,6 +30,10 @@ Iso 9241-210:2019 hcd.
 \bibitem{tools}
 Tools and metrics for design evaluation.
 \newblock https://www.testingtime.com/en/blog/important-ux-kpis/.
+
+\bibitem{sixsteps}
+Usability test steps.
+\newblock https://www.productplan.com/glossary/usability-testing/.
 
 \bibitem{test}
 Usability testing approaches.

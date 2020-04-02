@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.2.6)  25 FEB 2020 22:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.2.6)  1 APR 2020 01:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -360,26 +360,25 @@ Overfull \hbox (14.44931pt too wide) in paragraph at lines 6--7
 <vertical.png, id=74, 870.25125pt x 789.95125pt>
 File: vertical.png Graphic file (type png)
 <use vertical.png>
-Package pdftex.def Info: vertical.png  used on input line 24.
+Package pdftex.def Info: vertical.png  used on input line 26.
 (pdftex.def)             Requested size: 469.76933pt x 216.80936pt.
 
-Overfull \hbox (14.46921pt too wide) in paragraph at lines 24--25
+Overfull \hbox (14.46921pt too wide) in paragraph at lines 26--27
  [] 
  []
 
-<style.png, id=75, 478.78876pt x 483.8075pt>
+[14 <./Horizontal.png>]
+<style.png, id=79, 478.78876pt x 483.8075pt>
 File: style.png Graphic file (type png)
 <use style.png>
-Package pdftex.def Info: style.png  used on input line 34.
+Package pdftex.def Info: style.png  used on input line 36.
 (pdftex.def)             Requested size: 289.07997pt x 216.81071pt.
-[14 <./Horizontal.png>] [15 <./vertical.png> <./style.png>]
-<ISO.png, id=85, 770.88pt x 536.0025pt>
+<ISO.png, id=80, 770.88pt x 536.0025pt>
 File: ISO.png Graphic file (type png)
 <use ISO.png>
-Package pdftex.def Info: ISO.png  used on input line 45.
+Package pdftex.def Info: ISO.png  used on input line 47.
 (pdftex.def)             Requested size: 289.07928pt x 216.80992pt.
- [16 <./ISO.png>])
-[17]
+ [15 <./vertical.png>] [16 <./style.png>]) [17 <./ISO.png>]
 Chapter 4.
 (./Chapter4.tex
 <usability-testing.png, id=93, 699.61375pt x 251.94125pt>
@@ -410,13 +409,7 @@ File: negatives.png Graphic file (type png)
 <use negatives.png>
 Package pdftex.def Info: negatives.png  used on input line 34.
 (pdftex.def)             Requested size: 325.22095pt x 216.80363pt.
- [24 <./negatives.png>]) (./UX_Design.bbl [25]
-Underfull \hbox (badness 1661) in paragraph at lines 30--33
-[]\OT1/cmr/m/n/10.95 Usability test-ing ap-proaches.  https://careerfoundry.com
-/en/blog/ux-design/what-is-a-
- []
-
-)
+ [24 <./negatives.png>]) (./UX_Design.bbl [25])
 
 Package caption Warning: Unused \captionsetup[table] on input line 20.
 See the caption package documentation for explanation.
@@ -425,10 +418,10 @@ See the caption package documentation for explanation.
 
 ] (./UX_Design.aux) ) 
 Here is how much of TeX's memory you used:
- 3814 strings out of 492649
- 58104 string characters out of 6129623
- 229120 words of memory out of 5000000
- 7628 multiletter control sequences out of 15000+600000
+ 3820 strings out of 492649
+ 58182 string characters out of 6129623
+ 229152 words of memory out of 5000000
+ 7634 multiletter control sequences out of 15000+600000
  12851 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,6n,39p,945b,423s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -444,7 +437,7 @@ cmsl10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/c
 msy10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 ti10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmt
 i12.pfb>
-Output written on UX_Design.pdf (27 pages, 2126646 bytes).
+Output written on UX_Design.pdf (27 pages, 2128178 bytes).
 PDF statistics:
  165 PDF objects out of 1000 (max. 8388607)
  95 compressed objects within 1 object stream

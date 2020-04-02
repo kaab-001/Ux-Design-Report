@@ -10,8 +10,8 @@
 \contentsline {section}{\numberline {2.3}User Requirement}{10}
 \contentsline {chapter}{\numberline {3}Product Design}{13}
 \contentsline {section}{\numberline {3.1}Information Architecture}{13}
-\contentsline {section}{\numberline {3.2}Style Guide - Comparison with ISO 9241-210}{14}
-\contentsline {subsection}{\numberline {3.2.1}ISO 9241-210}{16}
+\contentsline {section}{\numberline {3.2}Style Guide - Comparison with ISO 9241-210}{15}
+\contentsline {subsection}{\numberline {3.2.1}ISO 9241-210}{15}
 \contentsline {chapter}{\numberline {4}Evaluate the Design}{18}
 \contentsline {section}{\numberline {4.1}Test Cases}{18}
 \contentsline {section}{\numberline {4.2}Test tools \& Metrics}{19}
