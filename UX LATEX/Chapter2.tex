@@ -1,6 +1,15 @@
 User requirements are actually the expectations of the the client. Either it's the solution of a specific problem inside a product or its completely a new product, requirements are highly important. Most of the projects fail due to bad or incomplete requirements. User requirements are the building block of any project and are saved in User Requirement Document (URD). Business Analysts are suppose to prepare the user requirements, they write, manage and keep track of the requirements. Modern day projects are all about the change and change is the most consistent thing which happens in the project. So Business Analysts also are responsible for the change management in the Project.
 \section{User Needs}
-As we know know the good user needs are those which are testable. If we talk about Embold and its context of use, every user whether he is from any of the user group he will expect the Embold to to work with various version control systems. As a code analyzer the Embold has the feature to pull the repositories from the various version control systems like GutHub, BitBucket GitLab etc. So mostly users are very happy with this as its one of the most important requirement which is fulfilled. The open source, cloud and on premise availability of Embold is also a requirement depending on different Users. Providing the information code  issues, design issues, quality metrics is adding the value to product and that is the main focus of the user requirement to make the product Minimum Viable Product (MVP).
+As we know that the good user needs are those which are testable. If we talk about Embold and its context of use, every user whether he is from any of the user group he will expect the Embold to to work with various version control systems. As a code analyzer the Embold has the feature to pull the repositories from the various version control systems like GutHub, BitBucket GitLab etc. So mostly users are very happy with this as its one of the most important requirement which is fulfilled. The open source, cloud and on premise availability of Embold is also a requirement depending on different Users. Providing the information code  issues, design issues, quality metrics is adding the value to product and that is the main focus of the user requirement to make the product Minimum Viable Product (MVP). Following could be the prominent user needs for an Embold user:
+\begin{itemize}
+\item Availability of the Embold as On-premise, and Cloud product so that user can test the code on their ease.
+\item Availability of the Embold according to the size of the Enterprise for an efficient use.
+\item Availability of the Embold with various functions for different stake holders like Quality of code and Road blocks  which not only benefits the developers but also gives an insight view of the project duration, time line and risk which is helpful for the Project Managers. 
+\item Explanation about the Code Issues to keep the code clean.
+\item Indication of KPIs such as reusability and maintainability etc. 
+\item Information about the code Duplication. 
+\item To have overview about various snapshots in version control system. 
+\end{itemize}
 \section{User Story}
 Syntax of the User Story is; \par
 \emph{As a ``type of user", I want  ``some goal ", so that ``some reason ".} ~\cite{story}\par
@@ -12,7 +21,9 @@ User story is about a specific type of user who want to perform a specific task 
 \end{itemize}\par
 User stories are short and accurate, normally do not have info how the feature will be developed. It is sometimes not shared with the client, but it must be short and should be written as by the users perspective. Each and every stage is very important in the user story whether is description of the functionality, conversation about the functionality or the unit testing of the component. ~\cite{Agile}\par
 As Embold is a code analyzer it helps to confirm the user story and achieve the `Done' stage in any sprint.
-
+\subsection{User Story in Case of Embold}
+Someone who is either developer or manager, he will opt for the Embold when he wants to have the continuous testing and insight view about his project. Startups, SMEs and Big Entertprises use the code analyzer. \par Embold is used when a code review is required e.g an enterprise like SAP is developing a solution, they will probably use the Embold to check the quality of code,  the time required to finish that project, if they need to amend the design they need the static code analyzer like Embold. It will eventually give them all the info they want.\par
+   %here I have to start again.
 \section{User Requirement}
 User Requirements in context of Embold user could be very simple to understand. To create a project that pulls the repository from the version control is the first thing which every user group would expect as shown in Figure~\ref{fig:Requirement}.\par
 \begin{figure}[htbp]
@@ -41,9 +52,41 @@ If we further delve into the output which we have in Figure~\ref{fig:Requirement
 Apart from all these the response time which the Embold takes to scan any project is also quite important. Embold also gives users to online help, info about price plans and also an ease to manage their profile using the options available in the profile as shown in Figure~\ref{fig:Requirement3}. All these are non-functional requirement which have a big impact on the product. 
 \begin{figure}[htbp]
 \begin{center}
-\includegraphics[width=6.5 in, height=3in]{Requirement3.png}
+\includegraphics[width=6.5 in, height=2.6in]{Requirement3.png}
 \caption{Non-functional Requirement example} 
 \label{fig:Requirement3}
 \end{center}
 \end{figure}
+\subsection{User Requirements Template}
+We can illustrate the User Requirements as shown in Table \ref{tab:Requirement}
+\begin{table}[h]
+
+\begin{center}
+%table starts here
+\begin{tabular}{|p{6cm}|p{9cm}|}
+\hline
+\textbf{Requirement} & \textbf{Description} \\
+
+\hline
+Integration with Version Control & Embold SHALL Integrate with the any version Control. \\
+\hline
+Code Issues & Embold MUST  provide Information about the issues inside the code and code complexity. \\
+\hline
+Duplication & Embold MUST Indicate of Code Duplication in order to make the code clean and compact. \\
+\hline
+Adding Peers &Embold MAY Invite the other team members and control what the y can do with the Project. \\
+\hline
+Deployment History & Embold SHALL  review all the push and pull history in order to see code completely. \\
+\hline
+Dependencies & Emold MUST go through all the dependencies to analyze and regulate the code. \\
+\hline
+Support & Embold MUST provide the support for its users, while Embold MAY provide online support.\\
+\hline
+\end{tabular}
+%table ends here
+\end{center}
+\caption{User Requirements Template}
+\label{tab:Requirement}
+
+\end{table}
 

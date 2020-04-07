@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.2.6)  6 APR 2020 04:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.2.6)  7 APR 2020 23:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -111,21 +111,42 @@ Package caption3 Info: TeX engine: e-TeX on input line 67.
 )
 \c@ContinuedFloat=\count97
 )
+(/usr/local/texlive/2018/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2016/02/03 v2.11b `tabularx' package (DPC)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/tools/array.sty
+Package: array 2018/04/07 v2.4g Tabular extension package (FMi)
+\col@sep=\dimen120
+\ar@mcellbox=\box26
+\extrarowheight=\dimen121
+\NC@list=\toks16
+\extratabsurround=\skip45
+\backup@length=\skip46
+\ar@cellbox=\box27
+)
+\TX@col@width=\dimen122
+\TX@old@table=\dimen123
+\TX@old@col=\dimen124
+\TX@target=\dimen125
+\TX@delta=\dimen126
+\TX@cols=\count98
+\TX@ftn=\toks17
+)
 (./UX_Design.aux)
 \openout1 = `UX_Design.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -163,17 +184,17 @@ LaTeX Font Info:    ... okay on input line 17.
 
 (/usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count98
-\scratchdimen=\dimen120
-\scratchbox=\box26
-\nofMPsegments=\count99
-\nofMParguments=\count100
-\everyMPshowfont=\toks16
-\MPscratchCnt=\count101
-\MPscratchDim=\dimen121
-\MPnumerator=\count102
-\makeMPintoPDFobject=\count103
-\everyMPtoPDFconversion=\toks17
+\scratchcounter=\count99
+\scratchdimen=\dimen127
+\scratchbox=\box28
+\nofMPsegments=\count100
+\nofMParguments=\count101
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count102
+\MPscratchDim=\dimen128
+\MPnumerator=\count103
+\makeMPintoPDFobject=\count104
+\everyMPtoPDFconversion=\toks19
 ) (/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -231,7 +252,7 @@ Package caption Info: End \AtBeginDocument code.
 <HFTL.jpg, id=1, 226.8475pt x 105.39375pt>
 File: HFTL.jpg Graphic file (type jpg)
 <use HFTL.jpg>
-Package pdftex.def Info: HFTL.jpg  used on input line 29.
+Package pdftex.def Info: HFTL.jpg  used on input line 30.
 (pdftex.def)             Requested size: 142.26378pt x 66.09605pt.
 
 [1
@@ -304,47 +325,50 @@ Overfull \hbox (14.46281pt too wide) in paragraph at lines 66--67
 Chapter 2.
 (./Chapter2.tex [9
 
-]
-<requirement.png, id=52, 475.7775pt x 278.03876pt>
+] [10]
+<requirement.png, id=55, 475.7775pt x 278.03876pt>
 File: requirement.png Graphic file (type png)
 <use requirement.png>
-Package pdftex.def Info: requirement.png  used on input line 20.
+Package pdftex.def Info: requirement.png  used on input line 31.
 (pdftex.def)             Requested size: 325.23045pt x 130.08852pt.
-<requirement1.png, id=53, 1300.86pt x 787.94376pt>
+<requirement1.png, id=56, 1300.86pt x 787.94376pt>
 File: requirement1.png Graphic file (type png)
 <use requirement1.png>
-Package pdftex.def Info: requirement1.png  used on input line 28.
+Package pdftex.def Info: requirement1.png  used on input line 39.
 (pdftex.def)             Requested size: 469.75827pt x 216.79942pt.
 
-Overfull \hbox (14.45815pt too wide) in paragraph at lines 28--29
+Overfull \hbox (14.45815pt too wide) in paragraph at lines 39--40
  [] 
  []
 
-[10 <./requirement.png>]
-<requirement2.png, id=58, 1054.94125pt x 595.22375pt>
+<requirement2.png, id=57, 1054.94125pt x 595.22375pt>
 File: requirement2.png Graphic file (type png)
 <use requirement2.png>
-Package pdftex.def Info: requirement2.png  used on input line 36.
+Package pdftex.def Info: requirement2.png  used on input line 47.
 (pdftex.def)             Requested size: 469.74518pt x 216.80528pt.
 
-Overfull \hbox (14.44505pt too wide) in paragraph at lines 36--37
+Overfull \hbox (14.44505pt too wide) in paragraph at lines 47--48
  [] 
  []
 
-<Requirement3.png, id=59, 1380.15625pt x 793.96625pt>
+<Requirement3.png, id=58, 1380.15625pt x 793.96625pt>
 File: Requirement3.png Graphic file (type png)
 <use Requirement3.png>
-Package pdftex.def Info: Requirement3.png  used on input line 44.
-(pdftex.def)             Requested size: 469.75235pt x 216.80885pt.
+Package pdftex.def Info: Requirement3.png  used on input line 55.
+(pdftex.def)             Requested size: 469.75235pt x 187.90262pt.
 
-Overfull \hbox (14.45222pt too wide) in paragraph at lines 44--45
+Overfull \hbox (14.45222pt too wide) in paragraph at lines 55--56
  [] 
  []
 
-) [11 <./requirement1.png>] [12 <./requirement2.png> <./Requirement3.png>]
+[11 <./requirement.png> <./requirement1.png>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) [12 <./requirement2.png> <./Requirement3.png>] [13]
 Chapter 3.
 (./Chapter3.tex
-<Horizontal.png, id=70, 1445.4pt x 209.78375pt>
+<Horizontal.png, id=73, 1445.4pt x 209.78375pt>
 File: Horizontal.png Graphic file (type png)
 <use Horizontal.png>
 Package pdftex.def Info: Horizontal.png  used on input line 6.
@@ -354,10 +378,10 @@ Overfull \hbox (14.44931pt too wide) in paragraph at lines 6--7
  [] 
  []
 
-[13
+[14
 
 ]
-<vertical.png, id=74, 870.25125pt x 789.95125pt>
+<vertical.png, id=77, 870.25125pt x 789.95125pt>
 File: vertical.png Graphic file (type png)
 <use vertical.png>
 Package pdftex.def Info: vertical.png  used on input line 26.
@@ -367,21 +391,21 @@ Overfull \hbox (14.46921pt too wide) in paragraph at lines 26--27
  [] 
  []
 
-[14 <./Horizontal.png>]
-<style.png, id=79, 478.78876pt x 483.8075pt>
+[15 <./Horizontal.png>]
+<style.png, id=82, 478.78876pt x 483.8075pt>
 File: style.png Graphic file (type png)
 <use style.png>
 Package pdftex.def Info: style.png  used on input line 36.
 (pdftex.def)             Requested size: 289.07997pt x 216.81071pt.
-<ISO.png, id=80, 770.88pt x 536.0025pt>
+<ISO.png, id=83, 770.88pt x 536.0025pt>
 File: ISO.png Graphic file (type png)
 <use ISO.png>
 Package pdftex.def Info: ISO.png  used on input line 47.
 (pdftex.def)             Requested size: 289.07928pt x 216.80992pt.
- [15 <./vertical.png>] [16 <./style.png>]) [17 <./ISO.png>]
+ [16 <./vertical.png>] [17 <./style.png>]) [18 <./ISO.png>]
 Chapter 4.
 (./Chapter4.tex
-<usability-testing.png, id=93, 699.61375pt x 251.94125pt>
+<usability-testing.png, id=97, 699.61375pt x 251.94125pt>
 File: usability-testing.png Graphic file (type png)
 <use usability-testing.png>
 Package pdftex.def Info: usability-testing.png  used on input line 11.
@@ -391,56 +415,55 @@ Overfull \hbox (14.46349pt too wide) in paragraph at lines 11--12
  [] 
  []
 
-[18
+[19
 
-] [19 <./usability-testing.png>]
-<image.png, id=102, 481.8pt x 563.10374pt>
+] [20 <./usability-testing.png>]
+<image.png, id=105, 481.8pt x 563.10374pt>
 File: image.png Graphic file (type png)
 <use image.png>
 Package pdftex.def Info: image.png  used on input line 52.
 (pdftex.def)             Requested size: 289.08957pt x 433.6256pt.
- [20] [21 <./image.png>]) [22]
+ [21] [22 <./image.png>]) [23]
 Chapter 5.
-(./Chapter5.tex [23
+(./Chapter5.tex [24
 
 ]
-<negatives.png, id=117, 699.61375pt x 615.29875pt>
+<negatives.png, id=121, 699.61375pt x 615.29875pt>
 File: negatives.png Graphic file (type png)
 <use negatives.png>
 Package pdftex.def Info: negatives.png  used on input line 34.
 (pdftex.def)             Requested size: 325.22095pt x 216.80363pt.
- [24 <./negatives.png>]) (./UX_Design.bbl [25])
+ [25 <./negatives.png>]) (./UX_Design.bbl [26]) [27
 
-Package caption Warning: Unused \captionsetup[table] on input line 20.
-See the caption package documentation for explanation.
+]
+(./UX_Design.aux)
 
-[26
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-] (./UX_Design.aux) ) 
+ ) 
 Here is how much of TeX's memory you used:
- 3820 strings out of 492649
- 58182 string characters out of 6129623
- 229152 words of memory out of 5000000
- 7634 multiletter control sequences out of 15000+600000
+ 3920 strings out of 492649
+ 59402 string characters out of 6129623
+ 231065 words of memory out of 5000000
+ 7729 multiletter control sequences out of 15000+600000
  12851 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,6n,39p,945b,423s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2018/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmbx10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmbx12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmbxti10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmmi10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmr10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmr12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmr8.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmsl10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/c
-msy10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-ti10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmt
-i12.pfb>
-Output written on UX_Design.pdf (27 pages, 2128360 bytes).
+ 41i,10n,39p,945b,423s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb
+></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
+</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
+usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
+r/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/l
+ocal/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/lo
+cal/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/loc
+al/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/loca
+l/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on UX_Design.pdf (28 pages, 2131351 bytes).
 PDF statistics:
- 165 PDF objects out of 1000 (max. 8388607)
- 95 compressed objects within 1 object stream
+ 168 PDF objects out of 1000 (max. 8388607)
+ 97 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  76 words of extra memory for PDF output out of 10000 (max. 10000000)
 
