@@ -4,6 +4,14 @@
 Agile manifesto and user story.
 \newblock https://www.xenonstack.com/blog/agile-user-story/.
 
+\bibitem{bundesliga}
+bundesliga user story.
+\newblock https://www.bundesliga.com/de/bundesliga.
+
+\bibitem{sguide}
+Components of usability guide.
+\newblock https://uxpajournal.org/ux-cx-brand/.
+
 \bibitem{Embold}
 Embold.
 \newblock https://www.embold.io/.
@@ -27,6 +35,10 @@ Introduction.
 Iso 9241-210:2019 hcd.
 \newblock https://www.iso.org/obp/ui/iso:std:iso:9241:-210:ed-2:v1:en/.
 
+\bibitem{netflix}
+netflix user story.
+\newblock www.netflix.com.
+
 \bibitem{tools}
 Tools and metrics for design evaluation.
 \newblock https://www.testingtime.com/en/blog/important-ux-kpis/.
@@ -39,6 +51,10 @@ Usability test steps.
 Usability testing approaches.
 \newblock
   https://careerfoundry.com/en/blog/ux-design/what-is-a-heuristic-evaluation-in-ux/.
+
+\bibitem{persona}
+User persona figure.
+\newblock https://www.behance.net/search/projects?search=user.
 
 \bibitem{story}
 User story.

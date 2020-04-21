@@ -8,17 +8,19 @@
 \contentsline {section}{\numberline {2.1}User Needs}{9}
 \contentsline {section}{\numberline {2.2}User Story}{10}
 \contentsline {subsection}{\numberline {2.2.1}User Story in Case of Embold}{10}
+\contentsline {subsubsection}{Netflix and Code Testing}{11}
+\contentsline {subsubsection}{Bundesliga Mobile App}{11}
 \contentsline {section}{\numberline {2.3}User Requirement}{11}
 \contentsline {subsection}{\numberline {2.3.1}User Requirements Template}{12}
-\contentsline {chapter}{\numberline {3}Product Design}{14}
-\contentsline {section}{\numberline {3.1}Information Architecture}{14}
-\contentsline {section}{\numberline {3.2}Style Guide - Comparison with ISO 9241-210}{16}
-\contentsline {subsection}{\numberline {3.2.1}ISO 9241-210}{16}
-\contentsline {chapter}{\numberline {4}Evaluate the Design}{19}
-\contentsline {section}{\numberline {4.1}Test Cases}{19}
-\contentsline {section}{\numberline {4.2}Test tools \& Metrics}{20}
-\contentsline {subsection}{\numberline {4.2.1}Behavioural KPI (What it does)}{21}
-\contentsline {subsection}{\numberline {4.2.2} Attitudinal KPI (What they say)}{21}
+\contentsline {chapter}{\numberline {3}Product Design}{15}
+\contentsline {section}{\numberline {3.1}Information Architecture}{15}
+\contentsline {section}{\numberline {3.2}Style Guide - Comparison with ISO 9241-210}{17}
+\contentsline {subsection}{\numberline {3.2.1}ISO 9241-210}{17}
+\contentsline {chapter}{\numberline {4}Evaluate the Design}{20}
+\contentsline {section}{\numberline {4.1}Test Cases}{20}
+\contentsline {section}{\numberline {4.2}Test tools \& Metrics}{21}
+\contentsline {subsection}{\numberline {4.2.1}Behavioural KPI (What it does)}{22}
+\contentsline {subsection}{\numberline {4.2.2} Attitudinal KPI (What they say)}{22}
 \contentsline {section}{\numberline {4.3}Usability Test Report}{23}
 \contentsline {chapter}{\numberline {5}Conclusion}{24}
 \contentsline {section}{\numberline {5.1}Summary}{24}

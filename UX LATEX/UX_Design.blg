@@ -6,53 +6,57 @@ Database file #1: UXbib.bib
 Warning--to sort, need author or key in C1
 Warning--to sort, need author or key in Embold
 Warning--to sort, need author or key in UX
+Warning--to sort, need author or key in persona
 Warning--to sort, need author or key in story
 Warning--to sort, need author or key in Agile
+Warning--to sort, need author or key in netflix
+Warning--to sort, need author or key in bundesliga
 Warning--to sort, need author or key in informationIA
 Warning--to sort, need author or key in IA
+Warning--to sort, need author or key in sguide
 Warning--to sort, need author or key in ISO
 Warning--to sort, need author or key in test
 Warning--to sort, need author or key in sixsteps
 Warning--to sort, need author or key in tools
-You've used 11 entries,
+You've used 15 entries,
             2118 wiz_defined-function locations,
-            536 strings with 4999 characters,
-and the built_in function-call counts, 1771 in all, are:
-= -- 165
-> -- 11
+            548 strings with 5258 characters,
+and the built_in function-call counts, 2407 in all, are:
+= -- 225
+> -- 15
 < -- 0
-+ -- 11
++ -- 15
 - -- 0
-* -- 57
-:= -- 198
-add.period$ -- 22
-call.type$ -- 11
-change.case$ -- 33
+* -- 77
+:= -- 266
+add.period$ -- 30
+call.type$ -- 15
+change.case$ -- 45
 chr.to.int$ -- 0
-cite$ -- 22
-duplicate$ -- 77
-empty$ -- 254
+cite$ -- 30
+duplicate$ -- 105
+empty$ -- 346
 format.name$ -- 0
-if$ -- 441
+if$ -- 601
 int.to.chr$ -- 0
-int.to.str$ -- 11
+int.to.str$ -- 15
 missing$ -- 0
-newline$ -- 47
+newline$ -- 63
 num.names$ -- 0
-pop$ -- 88
+pop$ -- 120
 preamble$ -- 1
-purify$ -- 22
+purify$ -- 30
 quote$ -- 0
-skip$ -- 87
+skip$ -- 119
 stack$ -- 0
-substring$ -- 55
-swap$ -- 11
+substring$ -- 75
+swap$ -- 15
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 44
-warning$ -- 11
+type$ -- 60
+warning$ -- 15
 while$ -- 0
-width$ -- 13
-write$ -- 79
-(There were 11 warnings)
+width$ -- 17
+write$ -- 107
+(There were 15 warnings)
